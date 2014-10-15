@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<TEI xmlns="http://www.tei-c.org/ns/1.0">
+		<TEI>
+			<teiHeader>
+				<fileDesc>
+				<titleStmt>
+					<author>Lawrence Sterne</author>
+					<title type="full">
+						<title type="main">The Novels of Lawrence Sterne in Four Volumes</title>
+						<title type="sub">The Life and Opinions of Tristram Shandy. Gent. Vol. 1 Original Edition</title>
+							<respStmt>
+								<resp>Edited for XML and encoded by</resp>
+									<persName xml:id="CM">Christopher Martiniano</persName>
+							</respStmt>
+					</titleStmt>
+<publicationStmt>
+	<publisher>Messrs Morrison & Gibb Limited</publisher>
+ 	<pubPlace>Edinburgh, N.B., Great Britain</pubPlace>
+ 	<date when="1873"/>1873<date>
+	<availability>
+		<p>The Navarre Society gratefully acknowledges the courtesy of Messrs Bickers & Son Limited in granting permission to use 				their edition of 1873 in the preparation of this set.</p>
+		<p>Of this edition of Sterne's Novels, Two Thousand copies are printed for England and America, for The Navarre Society</p>
+		<p>Available under license only</p>
+ 	</availability>
+<!--Originally published in nine volumes, the first two appearing in 1759, and seven others following over the next seven years (vols. 3 and 4, 1761; vols. 5 and 6, 1762; vols. 7 and 8, 1765; vol. 9, 1767) by Ann Ward (vol. 1–2), Dodsley (vol. 3–4), Becket & DeHondt (5–9) respectively-->
+</publicationStmt>
+	<physDesc>
+		<p> Paper and vellum <objectType>bound book</objectType>in brown and maroon, marbled cloth binding and leather.Pages are clean and unmarked throughout, binding is good but slightly cracked.</p>
+			<dimensions>
+				<dimensions type="cover">
+					<dimensions unit="in">
+						<height>7</height>
+						<width>4.25</width>
+				</dimensions>dimensions type="cover">
+				<dimensions type="pages">
+					<dimensions unit="in">
+						<height>6.75</height>
+						<width>4</width>
+				</dimensions>dimensions type="cover">
+			</dimensions>
+	</physDesc>
+	<sourceDesc>
+		<sourceDoc>
+			<surfaceGrp n="leaf1">
+				<surface facs="page34.png">
+					<zone>All the writing on page 34</zone>
+				</surface>
+  				<surface>
+   					<graphic url="page34-highRes.png"/>
+   					<graphic url="page34-lowRes.png"/>
+			</surfaceGrp>
+		</sourceDoc>
+	</sourceDesc>
+</fileDesc>
+	</teiHeader>
+		<text>
+			<body>
+			 <pb n="34" facs="page34.png"/>
+<!--page34.png contains an image of the page; the text it contains is encoded here-->
+				<p>——Yorick's last breath was hanging upon his trembling lips ready to depart as he uttered this:——yet still it was uttered with something of a Cervantick tone;—and as he spoke it, Eugenius could perceive a stream of lambent fire lighted up for a moment in his eyes;——faint picture of those flashes of his spirit, which (as Shakespeare said of his ancestor) were wont to set the table in a roar!</p>
+				<p>Eugenius was convinced from this, that the heart of his friend was broke: he squeezed his hand,——and then walked softly out of the room, weeping as he walked. Yorick followed Eugenius with his eyes to the door,——he then closed them, and never opened them more.</p>
+				<p>He lies buried in the corner of his church-yard, in the parish of..., under a plain marble slab, which his friend Eugenius, by leave of his executors, laid upon his grave, with no more than these three words of inscription, serving both for his epitaph and elegy.</p>
+				<p>Alas, poor YORICK!</p>
+<!--Previous line, "Alas, poor Yorick!" outlined in a 1pt, black rectangular box...-->
+				<p>Ten times a day has Yorick's ghost the consolation to hear his monumental inscription read over with such a variety of plaintive tones, as denote a general pity and esteem for him;——a foot-way crossing the church-yard close by the side of his grave,——not a passenger goes by without stopping to cast a look upon it,——and sighing as he walks on,
+				<p>Alas, poor YORICK!</p>
+<!--Previous line, "Alas, poor Yorick!" not outlined...-->
+ <pb n="35" facs="page35.png"/>
+<!--page35.png contains an image of the page; the text it contains is encoded here -->
+				<p>Box</p>
+<!--page contains centered, vertical black rectangle, 1 7/8"x3 1/2" -->
+			</body>
+		</text>
+	</TEI>
