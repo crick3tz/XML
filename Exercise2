@@ -8,6 +8,9 @@
 <publicationStmt>
 <publisher>LEONARD & VIRGINIA WOOLF</publisher>
 <pubPlace>THE HOGARTH PRESS, 52 TAVISTOCK SQURE, LONDON. W.C.</pubPlace>
+<choice>
+<abbr type="place">W.C.</abbr>
+<expan>Western Central London</expan>
 <date when="1927"/>
 </publicationStmt>
 <sourceDesc>
