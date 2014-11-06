@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Portrait of Giovanni Arnolfini and his Wife</title>
+<choice>
+<abbr type="title">The Arnolfini Portrait</abbr>
+<expan>Portrait of Giovanni Arnolfini and his Wife</expan>
+<abbr type="title">The Arnolfini Wedding</abbr>
+<expan>Portrait of Giovanni Arnolfini and his Wife</expan>
+<abbr type="title">The Arnolfini Marriage,</abbr>
+<expan>Portrait of Giovanni Arnolfini and his Wife</expan>
+<abbr type="title">The Arnolfini Double Portrait</abbr>
+<expan>Portrait of Giovanni Arnolfini and his Wife</expan>
+</choice>
+<author>Jan van Eyck</author>
+<respStmt>
+<resp>Encoded by</resp>
+<name>Christopher Martiniano</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<availability>
+<p>This encoded text is freely available, licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</p>
+</availability>
+<pubPlace>Bruges, Belgium</pubPlace>
+<date when="1434"/>
+</publicationStmt>
+<msDesc>
+<msIdentifier>
+<settlement>London, England</settlement>
+<repository>The National Gallery, Room 56 (The Netherlands 1400-1450)</repository>
+<idno>NG186</idno>
+<dimensions scope="all" type="panel"
+unit="cm">
+<height>82.2</height>
+<width>60</width>
+</dimensions>
+</msIdentifier>
+<physDesc>
+<material>Oil on oak</material>
+</physDesc>
+<provenance>Bought, 1842</provenance>
+</msDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+<figure>
+<graphic url="arnolfini.jpg"/>
+<figDesc>This work is a portrait of Giovanni di Nicolao Arnolfini and his wife, but is not intended as a record of their wedding. His wife is not pregnant, as is often thought, but holding up her full-skirted dress in the contemporary fashion. Arnolfini was a member of a merchant family from Lucca living in Bruges. The couple are shown in a well-appointed interior. The ornate Latin signature translates as 'Jan van Eyck was here 1434'. The similarity to modern graffiti is not accidental. Van Eyck often inscribed his pictures in a witty way. The mirror reflects two figures in the doorway. One may be the painter himself. Arnolfini raises his right hand as he faces them, perhaps as a greeting. Van Eyck was intensely interested in the effects of light: oil paint allowed him to depict it with great subtlety in this picture, notably on the gleaming brass chandelier. (National Gallery Description: http://www.nationalgallery.org.uk/paintings/jan-van-eyck-the-arnolfini-portrait)</figDesc>
+</figure>
+</body>
+</text>
+</TEI>
