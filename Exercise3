@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<front>
+<titlePage>
+<docTitle>
+<p>TO THE LIGHTHOUSE</p>
+</docTitle>
+<docAuthor>VIRGINIA WOOLF</docAuthor>
+<docImprint>
+<publisher>LEONARD & VIRGINIA WOOLF</publisher>
+<pubPlace>THE HOGARTH PRESS, 52 TAVISTOCK SQURE</pubPlace>
+<pubPlace>London, England. W.C.</pubPlace>
+(<date>1927</date>)
+<choice>
+<abbr type="place">W.C.</abbr>
+<expan>Western Central London</expan>
+<figure>
+<figDesc>A black and white, circular seal featuring a wolf's head, left profile, encircled by two lines: a thick two point line and a smaller hairline within it. Inside the inner, hairline circle is a pattern (mezzotint) surrounding the outline of the wolf's head </figDesc>
+<graphic url="fig1.png"
+scale="0.25"/>
+</figure>
+</docImprint>
+</titlePage>
+</front>
