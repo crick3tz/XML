@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>TO THE LIGHTHOUSE</title>
+<author xml:id="VW">VIRGINIA WOOLF</author>
+</titleStmt>
+<publicationStmt>
+<publisher>LEONARD & VIRGINIA WOOLF</publisher>
+<pubPlace>THE HOGARTH PRESS, 52 TAVISTOCK SQURE, LONDON. W.C.</pubPlace>
+<date when="1927"/>
+</publicationStmt>
+<sourceDesc>
+<p>Digital facsmile placed in a Powerpoint presentation</p> 
+</sourceDesc>
+<figure>
+<graphic url="TitlePagefig.png"/>
+<figDesc>A black and white, circular seal featuring a wolf's head, left profile, encircled by two lines: a thick two point line and a smaller hairline within it. Inside the inner, hairline circle is a pattern (mezzotint) surrounding the outline of the wolf's head </figDesc>
+</figure>
+</fileDesc>
+</teiHeader>
